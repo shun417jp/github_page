@@ -1,4 +1,4 @@
-<a href="second.md">サブページへ</a>
+[second.md へのリンク](second.md)
 
 # 改行されない場合の例
 
@@ -79,9 +79,5 @@ docs/index.md で docs/hoge.png の画像を表示したい場合
 ![ほげ](./猫ちゃんフード01.jpg)
 ふか
 
----
-
 layout: redirect
 redirect: /second.md
-
----

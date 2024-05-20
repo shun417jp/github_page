@@ -1,4 +1,4 @@
-<a href="index.md">メインページへ</a>
+[index.mdへのリンク](index.md)
 
 # 引用
 
