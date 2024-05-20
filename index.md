@@ -75,3 +75,4 @@ docs/index.md から docs/fuga/hoge.md にリンクを貼る場合
 docs/index.md で docs/hoge.png の画像を表示したい場合
 
 ![ほげ](./猫ちゃんフード01.jpg)
+ふか
